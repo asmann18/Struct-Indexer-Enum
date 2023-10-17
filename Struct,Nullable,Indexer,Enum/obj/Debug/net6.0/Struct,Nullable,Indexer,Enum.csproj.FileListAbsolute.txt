@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Struct,Nullable,Indexer,Enum\Struct,Nullable,Indexer,Enum\bin\Debug\net6.0\Struct,Nullable,Indexer,Enum.exe
+C:\Users\DELL\source\repos\Struct,Nullable,Indexer,Enum\Struct,Nullable,Indexer,Enum\bin\Debug\net6.0\Struct,Nullable,Indexer,Enum.deps.json
+C:\Users\DELL\source\repos\Struct,Nullable,Indexer,Enum\Struct,Nullable,Indexer,Enum\bin\Debug\net6.0\Struct,Nullable,Indexer,Enum.runtimeconfig.json
+C:\Users\DELL\source\repos\Struct,Nullable,Indexer,Enum\Struct,Nullable,Indexer,Enum\bin\Debug\net6.0\Struct,Nullable,Indexer,Enum.dll
+C:\Users\DELL\source\repos\Struct,Nullable,Indexer,Enum\Struct,Nullable,Indexer,Enum\bin\Debug\net6.0\Struct,Nullable,Indexer,Enum.pdb
+C:\Users\DELL\source\repos\Struct,Nullable,Indexer,Enum\Struct,Nullable,Indexer,Enum\obj\Debug\net6.0\Struct,Nullable,Indexer,Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Struct,Nullable,Indexer,Enum\Struct,Nullable,Indexer,Enum\obj\Debug\net6.0\Struct,Nullable,Indexer,Enum.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Struct,Nullable,Indexer,Enum\Struct,Nullable,Indexer,Enum\obj\Debug\net6.0\Struct,Nullable,Indexer,Enum.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Struct,Nullable,Indexer,Enum\Struct,Nullable,Indexer,Enum\obj\Debug\net6.0\Struct,Nullable,Indexer,Enum.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Struct,Nullable,Indexer,Enum\Struct,Nullable,Indexer,Enum\obj\Debug\net6.0\Struct,Nullable,Indexer,Enum.dll
+C:\Users\DELL\source\repos\Struct,Nullable,Indexer,Enum\Struct,Nullable,Indexer,Enum\obj\Debug\net6.0\refint\Struct,Nullable,Indexer,Enum.dll
+C:\Users\DELL\source\repos\Struct,Nullable,Indexer,Enum\Struct,Nullable,Indexer,Enum\obj\Debug\net6.0\Struct,Nullable,Indexer,Enum.pdb
+C:\Users\DELL\source\repos\Struct,Nullable,Indexer,Enum\Struct,Nullable,Indexer,Enum\obj\Debug\net6.0\Struct,Nullable,Indexer,Enum.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Struct,Nullable,Indexer,Enum\Struct,Nullable,Indexer,Enum\obj\Debug\net6.0\ref\Struct,Nullable,Indexer,Enum.dll
